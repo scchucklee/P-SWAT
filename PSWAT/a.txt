@@ -1,0 +1,168 @@
+readmgt.f(769): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+     &        f6.2,1x,f11.5,1x,f4.2,1x,f6.2,1x,f5.2)
+--------------------------------^
+readsol.f(258): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 5600 format (33x,f5.3)
+-------------------^
+readsol.f(256): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 5400 format (51x,f5.3)
+-------------------^
+readsub.f(457): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 5101 format (f8.4,f4.2,5f8.3)
+--------------------^
+std2.f(268): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 2000 format (//,' AREA DOES NOT SUM TO ONE   ', f8.6,//)
+--------------------------------------------------^
+std2.f(238): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 1014 format (t10,i4,2x,f10.2,f6.3,f9.2,f12.4,1x,f5.3,1x,f10.2,f6.3,    &
+--------------------------------------------------^
+std2.f(239): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+     &        2f9.2,f12.4,1x,f5.3,1x,f6.3)
+------------------------------^
+std2.f(230): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+ 1012 format (t10,i4,2x,f10.2,f6.3,f9.2,f12.4,1x,f5.3,1x,f10.2,f6.3,    &
+--------------------------------------------------^
+std2.f(231): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+     &        2f9.2,f12.4,1x,f5.3)
+------------------------------^
+hruday.f(316): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 2000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,70f10.3,1x,i4)
+---------------------------------------------^
+hruday.f(314): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,66f10.3,1x,
+---------------------------------------------^
+hruday.f(315): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+-------^
+hruday.f(315): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+----------------^
+impndday.f(239): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+-----------------------------------------------------^
+impndday.f(239): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+--------------------------------------------------------------------^
+impndday.f(240): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     &       ,13f10.3,1e10.4,5f10.3)
+------------------------^
+subday.f(114): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+---------------------------------------^
+subday.f(114): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+--------------------------------------------------------^
+virtual.f(613): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000    format (4i6,1x,e10.4,2x,e10.4)
+-------------------------^
+virtual.f(613): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000    format (4i6,1x,e10.4,2x,e10.4)
+----------------------------------^
+save.f(144): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 5003 format (18(e11.5,","),f11.1)
+------------------^
+save.f(143): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 5002 format (1x,i3,1x,i4,4x,18(e11.5,1x),f11.1)
+---------------------------------^
+save.f(142): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 5001 format (18(e11.5,","),f11.1)
+------------------^
+save.f(141): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 5000 format (1x,i3,1x,i4,1x,i2,1x,18(e11.5,1x),f11.1)
+---------------------------------------^
+writed.f(170): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+5200  format(i7,i9,i6,i5,1x,e9.4,f12.3,f7.1,f14.3)
+-----------------------------^
+hrumon.f(306): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 2000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,70f10.3,1x,i4)
+---------------------------------------------^
+hrumon.f(304): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,66f10.3,1x,
+---------------------------------------------^
+hrumon.f(305): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+-------^
+hrumon.f(305): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+----------------^
+impndmon.f(238): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+-----------------------------------------------------^
+impndmon.f(238): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+--------------------------------------------------------------------^
+impndmon.f(239): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     &        ,13f10.3,1e10.4,5f10.3)
+-------------------------^
+submon.f(100): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+---------------------------------------^
+submon.f(100): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+--------------------------------------------------------^
+hruyr.f(287): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 2000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,70f10.3,1x,i4)
+---------------------------------------------^
+hruyr.f(285): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,e10.5,66f10.3,1x,
+---------------------------------------------^
+hruyr.f(286): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+-------^
+hruyr.f(286): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+----------------^
+impndyr.f(239): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+-----------------------------------------------------^
+impndyr.f(239): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,i4,8f10.3,1e10.4,13f10.3,1e10.4&
+--------------------------------------------------------------------^
+impndyr.f(240): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     &        ,13f10.3,1e10.4,5f10.3)
+-------------------------^
+subyr.f(100): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+---------------------------------------^
+subyr.f(100): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,i4,e10.5,18f10.3,1x,e10.5,2f10.3)
+--------------------------------------------------------^
+writed1.f(173): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+5200  format(i7,i9,i6,i5,1x,e9.4,f12.3,f7.1,f14.3)
+-----------------------------^
+hruaa.f(289): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 2000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,f4.1,e10.5,70f10.3,1x,i4)
+-----------------------------------------------^
+hruaa.f(287): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,f4.1,e10.5,68f10.3,1x,
+-----------------------------------------------^
+hruaa.f(288): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+-------^
+hruaa.f(288): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     *e10.5,1x,e10.5,2e10.3)
+----------------^
+impndaa.f(254): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format (a4,i5,1x,i8,1x,i4,1x,i4,1x,f4.1,8f10.3,1e10.4,13f10.3,    &
+-------------------------------------------------------^
+impndaa.f(255): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     &        1e10.4,13f10.3,1e10.4,5f10.3)
+----------------^
+impndaa.f(255): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     &        1e10.4,13f10.3,1e10.4,5f10.3)
+-------------------------------^
+subaa.f(108): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,f4.1,e10.5,18f10.3,1x,e10.5,2f10.3)
+-----------------------------------------^
+subaa.f(108): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1000 format ('BIGSUB',i4,1x,i8,1x,f4.1,e10.5,18f10.3,1x,e10.5,2f10.3)
+----------------------------------------------------------^
+stdaa.f(511): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1900 format (i6,i4,1x,a4,a8,e8.3,16f8.2)
+------------------------------^
+parasoli.f(117): remark #8290: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+3'.
+  912 format(3x,a10,7x,i5,10x,f3.1,9x,i2,9x,i5)
+-------------------------------^
+stdaa1.f(532): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+ 1900 format (i6,i4,1x,a4,a8,e8.3,16f8.2)
+------------------------------^

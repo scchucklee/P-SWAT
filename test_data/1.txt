@@ -1,0 +1,931 @@
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.2938375    
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.2938375    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  1.7794510E-02
+ variimon=  1.7794510E-02
+ variimon=  0.2651953    
+ variimon=  0.2651953    
+ variimon=   2.371929    
+ variimon=   2.371929    
+ variimon=   2.928655    
+ variimon=   2.928655    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   5.832877    
+ variimon=   5.832877    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   21.31441    
+ variimon=   21.31441    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   51.84842    
+ variimon=   51.84842    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   88.93606    
+ variimon=   88.93606    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   94.17621    
+ variimon=   94.17621    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   51.58360    
+ variimon=   51.58360    
+ variimon=   25.30455    
+ variimon=   25.30455    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv= -0.444091796693560      variimon2=   25.30455      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   6.184143    
+ variimon=   6.184143    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   7.050120    
+ variimon=   7.050120    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   10.11825    
+ variimon=   10.11825    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   42.13623    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   42.13623    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  2.5162516E-02
+ variimon=  2.5162516E-02
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.9188042    
+ variimon=  0.9188042    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.589034    
+ variimon=   3.589034    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   4.992911    
+ variimon=   4.992911    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   13.72788    
+ variimon=   13.72788    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   43.28477    
+ variimon=   43.28477    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   56.96012    
+ variimon=   56.96012    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   80.28919    
+ variimon=   80.28919    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   44.30341    
+ variimon=   44.30341    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   14.00753    
+ variimon=   14.00753    
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=   9.600908    
+ variimon=   9.600908    
+ vv=  0.752744082810106      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.600908      0.0000000E+00
+ variimon=   68.33871    
+ variimon=   68.33871    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  2.5162509E-02
+ variimon=  2.5162509E-02
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.9188040    
+ variimon=  0.9188040    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.589034    
+ variimon=   3.589034    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   4.992911    
+ variimon=   4.992911    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   13.72788    
+ variimon=   13.72788    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   43.28477    
+ variimon=   43.28477    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   56.96012    
+ variimon=   56.96012    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   80.28919    
+ variimon=   80.28919    
+ variimon=   44.30341    
+ variimon=   44.30341    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   14.00753    
+ variimon=   14.00753    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   9.600908    
+ variimon=   9.600908    
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=  0.752744082810106      variimon2=   9.600908      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  7.4654557E-03
+ variimon=  7.4654557E-03
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  4.7939230E-02
+ variimon=  4.7939230E-02
+ variimon=   1.315990    
+ variimon=   1.315990    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.966091    
+ variimon=   3.966091    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   10.37164    
+ variimon=   10.37164    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   21.21277    
+ variimon=   21.21277    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   13.48896    
+ variimon=   13.48896    
+ variimon=   108.2102    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   108.2102    
+ variimon=   46.39679    
+ variimon=   46.39679    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   18.29543    
+ variimon=   18.29543    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   8.320442    
+ variimon=   8.320442    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.675085    
+ variimon=   3.675085    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  0.322330390377863      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   3.675085      0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  2.5162509E-02
+ variimon=  2.5162509E-02
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.9188040    
+ variimon=  0.9188040    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.589034    
+ variimon=   3.589034    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   4.992900    
+ variimon=   4.992900    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   13.72771    
+ variimon=   13.72771    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   43.28479    
+ variimon=   43.28479    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   56.96080    
+ variimon=   56.96080    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   80.23223    
+ variimon=   80.23223    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   44.16856    
+ variimon=   44.16856    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   13.62046    
+ variimon=   13.62046    
+ variimon=   9.238918    
+ variimon=   9.238918    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  0.753655832640577      variimon2=   9.238918      0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   129.2861    
+ variimon=   129.2861    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.3072937    
+ variimon=  0.3072937    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   1.519939    
+ variimon=   1.519939    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   3.312731    
+ variimon=   3.312731    
+ variimon=  3.5260540E-02
+ variimon=  3.5260540E-02
+ variimon=   2.982206    
+ variimon=   2.982206    
+ variimon=  0.6882939    
+ variimon=  0.6882939    
+ variimon=  0.4370164    
+ variimon=  0.4370164    
+ vv=  -1.08986513400111      variimon2=   2.982206      0.0000000E+00
+ variimon=  0.8071709    
+ variimon=  0.8071709    
+ vv=  -1.12147719746747      variimon2=  0.8071709      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   32.14026    
+ variimon=   32.14026    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   41.36633    
+ variimon=   41.36633    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   9.447023    
+ variimon=   9.447023    
+ vv= -0.518748122665164      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ vv=   1.00000000000000      variimon2=   9.447023      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.1149010    
+ variimon=  0.1149010    
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.4333531    
+ variimon=  0.4333531    
+ vv=  -1.13200300941001      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ vv=   1.00000000000000      variimon2=  0.0000000E+00  0.0000000E+00
+ variimon=   1.765406    
+ variimon=   1.765406    
+ variimon=   4.682178    
+ variimon=   4.682178    
+ variimon=  8.3876550E-02
+ variimon=  8.3876550E-02
+ variimon=  0.3573531    
+ variimon=   34.12342    
+ variimon=   34.12342    
+ variimon=  0.3573531    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   1.567164    
+ variimon=   1.567164    
+ variimon=   57.95868    
+ variimon=   57.95868    
+ variimon=   3.994286    
+ variimon=   3.994286    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   28.97640    
+ variimon=   28.97640    
+ variimon=   97.94759    
+ variimon=   97.94759    
+ variimon=   53.14387    
+ variimon=   53.14387    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   114.4401    
+ variimon=   114.4401    
+ variimon=   89.20593    
+ variimon=   89.20593    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   111.3317    
+ variimon=   111.3317    
+ variimon=   48.10059    
+ variimon=   48.10059    
+ variimon=   56.08981    
+ variimon=   56.08981    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   36.33189    
+ variimon=   36.33189    
+ variimon=   41.39800    
+ variimon=   41.39800    
+ variimon=   15.58818    
+ variimon=   15.58818    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   10.50671    
+ variimon=   10.50671    
+ vv=  3.392313564457705E-002 variimon2=   15.58818      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ vv= -3.520619810483283E-002 variimon2=   10.50671      0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  7.1406007E-02
+ variimon=  7.1406007E-02
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=  0.3705530    
+ variimon=  0.3705530    
+ variimon=  0.0000000E+00
+ variimon=  0.0000000E+00
+ variimon=   1.695581    
+ var

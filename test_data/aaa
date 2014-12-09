@@ -1,0 +1,913 @@
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+                SWAT2005               
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+ nprocs=           6 myid=           0
+ nprocs=           6 myid=           1
+ nprocs=           6 myid=           4
+ nprocs=           6 myid=           2
+ nprocs=           6 myid=           3
+ nprocs=           6 myid=           5
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+
+ Execution successfully completed 
+  starting PARASOL method...
+  written by Ann van Griensven
+          at University of California Riverside
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ CPU:           1 simulation            6
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ CPU:           3 simulation           16
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ CPU:           0 simulation            1
+  READING RESPONSE CONTROL PARAMETERS
+  ENTER THE SCEIN SUBROUTINE --- 
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ CPU:           4 simulation           21
+  ENTER THE SCEUA SUBROUTINE --- 
+  ***  Evolution Loop Number            0
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ iitel=           0
+    0 0.11832E+05
+ hello2
+ CPU:           2 simulation           11
+ CPU:           5 simulation           26
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=           1
+    1 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation            2
+ rerun end
+ iitel=          26
+   26 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           27
+ rerun end
+ iitel=           6
+    6 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation            7
+ rerun end
+ iitel=          21
+   21 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           22
+ rerun end
+ iitel=          11
+   11 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           12
+ rerun end
+ iitel=          16
+   16 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           17
+ changing parameters
+ changing parameters
+  Executing year    1
+ changing parameters
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=           7
+    7 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation            8
+ rerun end
+ rerun end
+ iitel=          27
+   27 0.31001E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           28
+ iitel=          12
+   12 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           13
+ rerun end
+ iitel=           2
+    2 0.84293E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation            3
+ rerun end
+ iitel=          22
+   22 0.57457E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           23
+ rerun end
+ iitel=          17
+   17 0.37607E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           18
+ changing parameters
+  Executing year    1
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=           8
+    8 0.11832E+05
+ hello2
+ objfunctn end
+ rerun end
+ iitel=          28
+   28 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           29
+ rerun end
+ iitel=           3
+    3 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation            4
+ response end
+ CPU:           1 simulation            9
+ rerun end
+ iitel=          18
+   18 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           19
+ rerun end
+ iitel=          23
+   23 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           24
+ rerun end
+ iitel=          13
+   13 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           14
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=          29
+   29 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           30
+ rerun end
+ iitel=           4
+    4 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation            5
+ rerun end
+ iitel=          19
+   19 0.11598E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           20
+ rerun end
+ iitel=           9
+    9 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           10
+ rerun end
+ iitel=          24
+   24 0.58044E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           25
+ rerun end
+ iitel=          14
+   14 0.13723E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           15
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=          10
+   10 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ rerun end
+ iitel=          20
+   20 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ rerun end
+ iitel=           5
+    5 0.80143E+04
+ hello2
+ objfunctn end
+ response end
+ rerun end
+ iitel=          25
+   25 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ rerun end
+ iitel=          15
+   15 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ rerun end
+ iitel=          30
+   30 0.75592E+04
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 reduce begin
+ CPU:           3 gather1 begin
+ CPU:           3 gather1 end
+ CPU:           3 iitel4=          20
+ CPU:           3 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           4 reduce begin
+ CPU:           4 gather1 begin
+ CPU:           4 gather1 end
+ CPU:           4 iitel4=          25
+ CPU:           4 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           0 reduce begin
+ CPU:           0 gather1 begin
+ CPU:           0 gather1 end
+ CPU:           0 iitel4=           5
+ CPU:           0 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           2 reduce begin
+ CPU:           2 gather1 begin
+ CPU:           2 gather1 end
+ CPU:           2 iitel4=          15
+ CPU:           2 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           1 reduce begin
+ CPU:           1 gather1 begin
+ CPU:           1 gather1 end
+ CPU:           1 iitel4=          10
+ CPU:           1 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           5 reduce begin
+ CPU:           5 gather1 begin
+ CPU:           5 gather1 end
+ CPU:           5 iitel4=          30
+ CPU:           5 iitelnum3=           5          10          15          20
+          25          30
+ CPU:           5 reduce end
+ CPU:           5 reduce2 begin
+ CPU:           1 reduce end
+ CPU:           1 reduce2 begin
+ CPU:           0 reduce end
+ CPU:           0 reduce2 begin
+ CPU:           2 reduce end
+ CPU:           2 reduce2 begin
+ CPU:           3 reduce end
+ CPU:           3 reduce2 begin
+ CPU:           4 reduce end
+ CPU:           4 reduce2 begin
+ CPU:           5 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+ objflim2=  0.000000000000000E+000
+ CPU:           5 objective function limit1  0.000000000000000E+000
+ CPU:           2 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+ CPU:           3 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+ CPU:           1 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+ CPU:           0 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+ objflim2=  0.000000000000000E+000
+ CPU:           0 objective function limit1  0.000000000000000E+000
+ CPU:           4 reduce2 end
+ objflim1=   6.36929049018122     
+   1372.33467784000               11          21           1           3
+          30   6.36929049018122       0.296344127528290     
+  number of selections          27
+  ***  Evolution Loop Number            1
+  number of selections          27
+  ***  Evolution Loop Number            1
+ objflim2=  0.000000000000000E+000
+ CPU:           2 objective function limit1  0.000000000000000E+000
+  number of selections          27
+  ***  Evolution Loop Number            1
+ objflim2=  0.000000000000000E+000
+ CPU:           3 objective function limit1  0.000000000000000E+000
+  number of selections          27
+  ***  Evolution Loop Number            1
+ objflim2=  0.000000000000000E+000
+ CPU:           1 objective function limit1  0.000000000000000E+000
+  number of selections          27
+  ***  Evolution Loop Number            1
+ objflim2=  0.000000000000000E+000
+ CPU:           4 objective function limit1  0.000000000000000E+000
+  number of selections          27
+  ***  Evolution Loop Number            1
+ CPU:           0 simulation           31
+ CPU:           1 simulation           31
+ CPU:           4 simulation           31
+ CPU:           5 simulation           31
+ CPU:           2 simulation           31
+ CPU:           3 simulation           31
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=          31
+ rerun end
+ iitel=          31
+ rerun end
+ iitel=          31
+ rerun end
+ iitel=          31
+ rerun end
+ iitel=          31
+   31 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           32
+   31 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           32
+   31 0.11832E+05
+ hello2
+ objfunctn end
+   31 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           32
+   31 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           32
+ response end
+ CPU:           4 simulation           32
+ rerun end
+ iitel=          31
+   31 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           32
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           33
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           33
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           33
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           33
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           33
+ rerun end
+ iitel=          32
+   32 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           33
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+ changing parameters
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           34
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           34
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           34
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           34
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           34
+ changing parameters
+ rerun end
+ iitel=          33
+   33 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           34
+  Executing year    1
+ changing parameters
+  Executing year    1
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           35
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           35
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           35
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           35
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           35
+ changing parameters
+ rerun end
+ iitel=          34
+   34 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           35
+  Executing year    1
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           36
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           36
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           36
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           36
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           36
+ changing parameters
+ changing parameters
+ rerun end
+ iitel=          35
+   35 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           36
+  Executing year    1
+  Executing year    1
+ changing parameters
+ changing parameters
+  Executing year    1
+  Executing year    1
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 simulation           37
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 simulation           37
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 simulation           37
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 simulation           37
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 simulation           37
+ changing parameters
+ changing parameters
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+  Executing year    1
+  Executing year    1
+ rerun end
+ iitel=          36
+   36 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 simulation           37
+ changing parameters
+  Executing year    1
+ changing parameters
+  Executing year    1
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           5 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           5 igs:           6
+ Enter the outer population:           6
+ CPU:           5 simulation           38
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           0 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           0 igs:           1
+ Enter the outer population:           1
+ CPU:           0 simulation           38
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           1 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           1 igs:           2
+ Enter the outer population:           2
+ CPU:           1 simulation           38
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           2 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           2 igs:           3
+ Enter the outer population:           3
+ CPU:           2 simulation           38
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           4 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           4 igs:           5
+ Enter the outer population:           5
+ CPU:           4 simulation           38
+ rerun end
+ iitel=          37
+   37 0.11832E+05
+ hello2
+ objfunctn end
+ response end
+ CPU:           3 ix=          17          22          24          30
+           5           2          19           7          13          12
+          28          15           6           3          11          21
+          20          10          18          23           9          25
+          26          16           8          29           4           1
+          14          27
+ CPU:           3 igs:           4
+ Enter the outer population:           4
+ CPU:           3 simulation           38
+2 total processes killed (some possibly by mpirun during cleanup)

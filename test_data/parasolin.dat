@@ -1,0 +1,12 @@
+20000     !  max no. of trials allowed before optimization is terminated
+    5     !  maximum number of shuffling loops in which the criterion value
+ 0.01     !  percentage by which the criterion value must change
+    1     !  number of complexes in the initial population
+ 1667     !  initial random seed
+
+
+    5     !  number of evolution steps allowed for each complex before complex shuffling
+    1     !  istat
+    3     !  iprob, when iprob=1 90% probability ; iprob=2 95% probability; iprob=3 97.5% probability
+    0     !  number of objective functions to be included in global optimization criterion (0=all objective functions)
+   10     !  nintval in hypercube

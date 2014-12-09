@@ -1,0 +1,23 @@
+ .rte file Subbasin: 31 2013/5/3 0:00:00 ArcSWAT 2.3.4
+        52.163    | CHW2 : Main channel width [m]
+         1.532    | CHD : Main channel depth [m]
+       0.01528    | CH_S2 : Main channel slope [m/m]
+        16.880    | CH_L2 : Main channel length [km]
+         0.240    | CH_N2 : Manning's nvalue for main channel
+       114.000    | CH_K2 : Effective hydraulic conductivity [mm/hr]
+         0.000    | CH_EROD: Channel erodibility factor
+         0.000    | CH_COV : Channel cover factor
+        34.059    | CH_WDR : Channel width:depth ratio [m/m]
+         0.000    | ALPHA_BNK : Baseflow alpha factor for bank storage [days]
+          0.00    | ICANAL : Code for irrigation canal
+          0.00    | CH_ONCO : Organic nitrogen concentration in the channel [ppm]
+          0.00    | CH_OPCO : Organic phosphorus concentration in the channel [ppm]
+          0.00    | CH_SAN : Fraction of sand in channel bed materials
+          0.00    | CH_SIL : Fraction of silt in channel bed materials
+          0.00    | CH_CLA : Fraction of clay in channel bed materials
+          0.00    | CH_VEG : Vegetative cover factor
+          0.00    | CH_RCUR : 
+          0.00    | CH_SS : Channel side slope
+          0.00    | CH_FPR : 
+          0.00    | CH_EQN : Equation for channel routing
+          0.00    | CH_CRHT : Channel critical height [m]

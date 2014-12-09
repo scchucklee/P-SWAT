@@ -1,0 +1,5 @@
+mpirun.openmpi: Forwarding signal 12 to job
+User defined signal 2
+--------------------------------------------------------------------------
+mpirun.openmpi noticed that process rank 10 with PID 30023 on node T3002 exited on signal 12 (User defined signal 2).
+--------------------------------------------------------------------------
